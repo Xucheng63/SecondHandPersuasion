@@ -1,0 +1,1 @@
+Page layout follows the structure of the LIVE-GEO research catalogue (Apache-2.0, github.com/zack-kong/live-geo-bench); all page code here is original. Product names, specifications and reviews are synthetic test material.
